@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Demo Import Transpix were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wongstruckingservicesja
+Data file = C:\wamp64\www\wongstruckingservicesja/wp-content/uploads/2020/06/demo-content-import-file_2020-06-09__01-22-04.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

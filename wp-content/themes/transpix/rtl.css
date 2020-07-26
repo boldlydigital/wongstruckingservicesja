@@ -1,0 +1,73 @@
+.single-service-style-two .hover .text-box{
+  text-align: right!important;
+}
+.about-style-one .about-content p{
+  text-align: right;
+}
+.about-style-one .about-content h3{
+  text-align: right;
+}
+.about-style-one .about-content ul li{
+  text-align: right;
+}
+.about-style-one .about-content a.about-btn{
+  float: right;
+}
+ .about-style-one .about-content ul {
+  float: right;
+ }
+ .single-service-style-two .overlay .text-box h3{
+  text-align: right;
+ }
+ .testimonials-style-two , .feature-style-one{
+  text-align: right;
+ }
+ .faq-rqa-section{
+  text-align: right;
+ }
+ @media (min-width: 968px){
+.faq-style-one .accrodion-grp .accrodion .accrodion-title h4:before{
+  right: 595px;
+ }
+ .service-page .faq-style-one .accrodion-grp .accrodion .accrodion-title h4:before{
+  right: 765px;
+ }
+ .testimonials-style-four .single-testimonial-style-four .top-box i.qoute-icon{
+  right: 510px;
+ }
+}
+.blog-style-one  , .time-line.gray-bg{
+  text-align: right;
+}
+.award-winning , .blog-listing-page ,.contact-page ,.header-top , .site-footer{
+  text-align: right;
+}
+.subscribe-widget , .testimonials-style-three , .service-style-four , .testimonials-style-one{
+  text-align: right;
+}
+.fact-counter-section , .contact-info-style-one , .about-style-two , .about-style-three{
+  text-align: right;
+}
+.testimonials-style-three-carousel .owl-nav{
+  right: auto;
+}
+.sidebar .single-sidebar.service-sidebar ul.service-list li a{
+  padding-right: 25px;
+  text-align: right;
+}
+.service-page , .contact-info-style-two , .project-details, .ceo-message-content , .testimonials-page{
+  text-align: right;
+}
+.sidebar .single-sidebar.broucher-sidebar a.broucher-btn{
+  padding-right: 25px;
+}
+.full_width.woocommerce{
+  text-align: right;
+}
+.woocommerce div.product form.cart div.quantity{
+  float: right;
+}
+.woocommerce div.product form.cart .button{
+  float: right;
+  margin-right: 15px;
+}

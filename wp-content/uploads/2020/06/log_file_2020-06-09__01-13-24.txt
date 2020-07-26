@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Demo Import Transpix were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wongstruckingservicesja
+Data file = C:\wamp64\www\wongstruckingservicesja/wp-content/uploads/2020/06/demo-content-import-file_2020-06-09__01-13-24.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "TRANSPIX GALLERY 01": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 02": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 03": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 04": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 05": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 06": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 07": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 08": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 09": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 10": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 11": Invalid post type gallery
+[WARNING] Failed to import "TRANSPIX GALLERY 12": Invalid post type gallery
+[WARNING] Failed to import "AIR FREIGHT": Invalid post type service
+[WARNING] Failed to import "ROAD FREIGHT": Invalid post type service
+[WARNING] Failed to import "OCEAN FREIGHT": Invalid post type service
+[WARNING] Failed to import "WARE HOUSING": Invalid post type service
+[WARNING] Failed to import "STORAGE": Invalid post type service
+
+
+---pt-ocdi/after_import---
+
